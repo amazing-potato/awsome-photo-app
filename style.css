@@ -20,3 +20,17 @@
 body{
     background-color: aliceblue;
 }
+
+.column{
+    display:inline;
+    padding:10px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:black;
+    background-color: bisque;
+    bottom:0;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+}
